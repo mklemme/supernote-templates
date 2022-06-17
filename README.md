@@ -1,4 +1,5 @@
 # Supernote templates
+Templates are built for the A5x 
 
 ## Planners
 ### Weekly planner
